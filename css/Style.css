@@ -155,3 +155,11 @@ p{
 .nav .social i:hover{
     color: #a1c4cf;
 }
+
+main .site-title{
+    background: url('../images/Background-image.jpg');
+    background-size: cover;
+    height: 110vh;
+    display: flex;
+    justify-content: center;
+}
